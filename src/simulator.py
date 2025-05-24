@@ -1,4 +1,4 @@
-import rndom
+import random
 import time
 from datetime import datetime
 
@@ -43,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
